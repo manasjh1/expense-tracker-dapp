@@ -1,0 +1,16 @@
+[package]
+name = "ExpenseTracker"
+version = "1.0.0"
+authors = ["hackathon-dev"]
+
+[addresses]
+expense_tracker = "_"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "aptos-node-v1.15.0"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
