@@ -1,6 +1,7 @@
 # Expense Tracker dApp
 
-![Uploading Screenshot 2025-11-03 at 4.41.50 PM.png…]()
+<img width="1468" height="832" alt="Screenshot 2025-11-03 at 6 37 03 PM" src="https://github.com/user-attachments/assets/76b0ae14-657c-4022-9cee-41e9556bc3c5" />
+
 
 
 A decentralized expense tracking application built on Aptos blockchain. Users can permanently store their expenses on-chain with categorization and real-time statistics.
@@ -105,4 +106,5 @@ The application works in two modes:
 This project was built for the Aerotoxs hackathon. The smart contract is deployed on Aptos testnet and the frontend is hosted on Vercel with automatic deployments from the main branch.
 
 For questions or contributions, visit the GitHub repository.
+
 
